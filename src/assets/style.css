@@ -1,0 +1,79 @@
+html, body {
+  margin: 0px auto;
+  padding: 0px;
+  height: 100%;
+}
+
+#app {
+  height: 100%;
+}
+
+.layout {
+  background: #f5f7f9;
+  position: relative;
+  overflow: hidden;
+}
+
+.ivu-layout-header {
+  padding: 0px;
+
+}
+
+.ivu-layout-header a {
+  color: #fff;
+}
+
+.layout-logo {
+  float: left;
+  position: relative;
+  top: 5px;
+  left: 20px;
+}
+
+.layout-slogen {
+  float: left;
+  position: relative;
+  color: #fff;
+  font-family: STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑";
+  font-size: 22px;
+  left: 20px;
+}
+
+.layout-nav {
+  float: right;
+  margin: 0 auto;
+  margin-right: 0px;
+}
+
+.layout-nav .dditem a{
+  font-size: 14px;
+  display: block;
+  color: #000;
+}
+
+.ivu-menu-item > i {
+  margin-right: 4px;
+}
+
+.ql-editor {
+  min-height: 320px;
+}
+
+/*这里可以修改编辑器默认文字大小*/
+.ql-editor p{
+  font-size: 14px;
+}
+
+.ivu-form .ivu-form-item-label {
+  font-size: 14px;
+}
+
+.main-btn {
+  padding: 10px 50px;
+  font-size: 16px;
+}
+
+.ivu-switch-checked {
+  border-color: #19be6b;
+  background-color: #19be6b;
+}
