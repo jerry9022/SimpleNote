@@ -28,7 +28,7 @@ $npm start #开发环境下启动
  
 ```
 
-3、在浏览器中访问：http://localhost:8083
+3、在浏览器中访问http://localhost:8083
 
 
 ### 线上部署
