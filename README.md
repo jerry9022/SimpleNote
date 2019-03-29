@@ -1,8 +1,8 @@
 ##SimpleNote
 
 > 一个简单的笔记项目。  
-> 用户可以部署此项目到自己的服务器上，就可以在线记录自己的笔记了。
-
+> 用户可以部署此项目到自己的服务器上，就可以在线记录自己的笔记了。  
+> 访问我的部署效果：[http://note.ipyro.cn/article/list](http://note.ipyro.cn/article/list)
 
 #### 项目说明 
 
